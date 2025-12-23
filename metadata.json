@@ -1,0 +1,6 @@
+
+{
+  "name": "慧题AI+",
+  "description": "一个由 AI 驱动的学术题库管理系统，支持从文档生成题目、多科目题库管理以及自定义组卷功能。",
+  "requestFramePermissions": []
+}
