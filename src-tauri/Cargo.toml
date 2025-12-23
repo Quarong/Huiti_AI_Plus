@@ -1,10 +1,10 @@
 [package]
-name = "慧题ai+"
+name = "Huiti_AI_Plus"
 version = "1.0.0"
 description = "A Tauri App for Huiti AI Plus"
 authors = ["Quaron"]
 license = "GPLv3"
-repository = "https://github.com/Quaron/huiti-ai-plus"
+repository = "https://github.com/Quarong/Huiti_AI_Plus"
 edition = "2021"
 rust-version = "1.77.2"
 
