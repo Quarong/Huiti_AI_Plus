@@ -1,6 +1,6 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "Huiti_AI_Plus",
+  "productName": "慧题AI+",
   "version": "1.0.0",
   "identifier": "com.huiti.ai",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "慧题ai+",
+        "title": "慧题AI+",
         "width": 1024,
         "height": 768,
         "resizable": true,
@@ -38,10 +38,11 @@
       "icons/icon.icns",
       "icons/icon.ico"
     ],
-    "publisher": "慧题AI",
+    "publisher": "Quaron",
     "category": "Education",
-    "copyright": "Copyright (c) 2024 慧题AI",
+    "copyright": "Copyright (c) 2025 Quaron",
     "shortDescription": "AI智能题库与考试系统",
     "longDescription": "慧题AI+是一款基于人工智能的智能题库与考试系统，提供题目生成、模拟考试、练习等功能。"
   }
 }
+
