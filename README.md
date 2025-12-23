@@ -61,4 +61,4 @@ Web 版
 “让 AI 成为您的私人助教，让知识从此触手可及。” —— 慧题AI+ 
 
 作者：Quaron
-许可证声明本项目采用 GNU 通用公共许可证第 3 版（GPLv3） 进行开源授权。详细协议条款请查阅https://www.gnu.org/licenses/gpl-3.0.html。
+许可证声明本项目采用 GNU 通用公共许可证第 3 版（GPLv3） 进行开源授权。详细协议条款请查阅 [LICENSE GPLv3 协议](https://github.com/Quarong/Huiti_AI_Plus/blob/main/LICENSE)。
